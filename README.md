@@ -2,8 +2,6 @@
 Sprint 01: Crea tu propio conversor de monedas
 Desafio de la ruta Java Orientado a Objetos del programa Oracle Next Education
 
-----------
-
 ## Descripcion 
 En esta oportunidad, a los Devs se nos solicitó crear un conversor de divisas utilizando el lenguaje
 Java. Las características solicitadas por nuestro cliente son las siguientes:
@@ -11,7 +9,7 @@ Java. Las características solicitadas por nuestro cliente son las siguientes:
 -Que sea posible convertir de la moneda nacional a diversas monedas internacionales
 -Que sea posible convertir inversamente
 
-----------
+
 ## Funcion
 
 ### Pantalla Principal
